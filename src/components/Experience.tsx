@@ -54,7 +54,15 @@ const experiences: Job[] = [
       "Proactively identified and resolved over 250 production issues and security vulnerabilities, ensuring system integrity and maintaining 99.99% uptime.",
     ],
     logo: "/Perficient_Logo.png",
-    skills: ["Angular 4", "React", ".NET", "Microservices"],
+    skills: [
+      "Java",
+      "Spring Boot",
+      "Oracle SQL Developer",
+      "BFF",
+      "Microservices",
+      "Cucumber/Gherkin",
+      "ServiceNow",
+    ],
   },
   {
     title: "Software Development Engineer",
@@ -69,7 +77,15 @@ const experiences: Job[] = [
       "Led the deprecation of an internal service, leveraging data analytics insights through Jupyter notebooks and collaborating with cross-functional teams, resulting in a 20% reduction in operational costs.",
     ],
     logo: "/amazon-logo.png",
-    skills: ["Angular 4", "React", ".NET", "Microservices"],
+    skills: [
+      "Java",
+      "Spring MVC",
+      "AWS",
+      "Pub-Sub",
+      "TypeScript",
+      "Jupyter Notebooks",
+      "Microservices",
+    ],
   },
 ];
 
